@@ -1,6 +1,6 @@
 # 1. Linux Mint の初期設定
 
-## 1.1. ホームディレクトリの英語科 (Desktop, Downloads 等)
+## 1.1. ホームディレクトリの英語化 (Desktop, Downloads 等)
 
 ```bash
 LANG=C xdg-user-dirs-gtk-update

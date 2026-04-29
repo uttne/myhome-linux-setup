@@ -147,6 +147,6 @@ nvs link lts
 # nvs ls-remote lts
 ```
 
-## IPの固定
+## 1.9. IPの固定
 
 Wifi ルーターの DHCP の固定 IP 設定で IP アドレスを固定化させる

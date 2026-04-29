@@ -146,3 +146,7 @@ nvs link lts
 # 以下を実行すると lts のバージョンのリストを取得可能
 # nvs ls-remote lts
 ```
+
+## IPの固定
+
+Wifi ルーターの DHCP の固定 IP 設定で IP アドレスを固定化させる
